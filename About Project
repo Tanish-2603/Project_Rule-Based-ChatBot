@@ -1,0 +1,46 @@
+Smart AI Chatbot 🤖
+
+A simple Rule-Based AI Chatbot built using Python that responds to user queries using a predefined dictionary of answers. This project demonstrates the use of Python fundamentals such as dictionaries, functions, loops, conditional statements, and string handling to create an interactive chatbot experience.
+
+✨ Features
+Responds to greetings and basic conversations
+Answers programming and technology-related questions
+Includes jokes, facts, and motivational replies
+Uses dictionary-based response matching
+Beginner-friendly Python project
+Continuous chat until user types bye
+🛠️ Technologies Used
+Python
+Dictionaries
+Functions
+Loops
+Conditional Statements
+String Handling
+📂 How It Works
+
+The chatbot stores predefined questions and answers inside a Python dictionary.
+When the user enters a question, the chatbot searches for matching keywords and returns the related response.
+
+▶️ How to Run
+Install Python on your system
+Copy the code into a .py file
+Run the file using:
+python chatbot.py
+📸 Example
+Please ask your question : hello
+Bot Response : Hi there!
+
+Please ask your question : what is python
+Bot Response : Python is a powerful programming language.
+🚀 Learning Outcomes
+
+This project helped in learning:
+
+Python basics
+Logic building
+Chatbot development fundamentals
+User input handling
+Dictionary operations
+👨‍💻 Creator
+
+Created by Tanish
